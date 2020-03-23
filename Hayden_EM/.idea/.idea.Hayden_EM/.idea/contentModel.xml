@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\jpcan\.Rider2018.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\jpcan\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_Hayden_EM.1178746275.00" t="ExcludeRecursive" />
+    <e p="C:\Users\jpcan\Documents\GitHub\HaydenJaredRepo\HaydenJaredCollab\Hayden_EM" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="EMP" t="Include">
+          <e p="Core" t="Include">
+            <e p="Backend" t="Include">
+              <e p="DipoleStrength.cs" t="Include" />
+              <e p="EMController.cs" t="Include" />
+              <e p="EMStrength.cs" t="Include" />
+              <e p="FieldGenerator.cs" t="Include" />
+              <e p="FieldReactor.cs" t="Include" />
+              <e p="MonopoleStrength.cs" t="Include" />
+              <e p="Singleton.cs" t="Include" />
+            </e>
+            <e p="Objects" t="Include">
+              <e p="Scripts" t="Include">
+                <e p="GlobalConstantFieldGenerator.cs" t="Include" />
+                <e p="InteractionField.cs" t="Include" />
+                <e p="MonopoleStrengthTimesFieldReactor.cs" t="Include" />
+                <e p="MonopoleVelocityCrossFieldReactor.cs" t="Include" />
+                <e p="PointChargeGenerator.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="Visualization" t="Include">
+            <e p="EM Colors" t="Include">
+              <e p="PointChargeColor.cs" t="Include" />
+              <e p="VisColorSettings.cs" t="Include" />
+            </e>
+            <e p="Field Lines" t="Include">
+              <e p="Assets" t="Include">
+                <e p="CosineGradient.cs" t="Include" />
+                <e p="TubeTemplate.cs" t="Include" />
+              </e>
+              <e p="Editor" t="Include">
+                <e p="CosineGradientEditor.cs" t="Include" />
+                <e p="GPUFieldLinesEditor.cs" t="Include" />
+                <e p="Preview.shader" t="Include" />
+                <e p="TubeTemplateEditor.cs" t="Include" />
+              </e>
+              <e p="Scripts" t="Include">
+                <e p="CPUFieldLineManager.cs" t="Include" />
+                <e p="CPUFieldLineModel.cs" t="Include" />
+                <e p="CPUFieldLineView.cs" t="Include" />
+                <e p="EMToGPUInterface.cs" t="Include" />
+                <e p="FieldLineAppearanceSettings.cs" t="Include" />
+                <e p="FieldLineCalculationSettings.cs" t="Include" />
+                <e p="FieldLineTerminalGeometry.cs" t="Include" />
+                <e p="FieldLineTypeSettings.cs" t="Include" />
+                <e p="GPUFieldLines.cs" t="Include" />
+                <e p="SphereFieldLineTerminal.cs" t="Include" />
+              </e>
+              <e p="Shader" t="Include">
+                <e p="FieldSwarm.compute" t="Include" />
+                <e p="Tube.shader" t="Include" />
+                <e p="TubeSurfNoLighting.shader" t="Include" />
+                <e p="TubeVertexFrag.shader" t="Include" />
+              </e>
+            </e>
+            <e p="Flux Shading" t="Include">
+              <e p="FluxShading.cs" t="Include" />
+              <e p="VectorFlux.shader" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="Hayden_EM.sln" t="IncludeFlat" />
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>

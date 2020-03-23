@@ -1,0 +1,665 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b8665501-d117-4065-8699-feeffde30c49" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/EMP/Core/Backend/EMController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="192">
+              <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+              <folding>
+                <marker date="1584921361122" expanded="false" signature="6:78" ph="..." />
+                <marker date="1584921361122" expanded="true" signature="99:7028" ph="{...}" />
+                <marker date="1584921361122" expanded="true" signature="157:7026" ph="{...}" />
+                <marker date="1584921361122" expanded="true" signature="1670:1842" ph="{...}" />
+                <marker date="1584921361122" expanded="true" signature="1735:1832" ph="{...}" />
+                <marker date="1584921361122" expanded="true" signature="1860:2149" ph="/// Register a FieldGenerator with EMController. Called automatically by every FieldGenerator on scene start or ... " />
+                <marker date="1584921361122" expanded="true" signature="2226:2700" ph="{...}" />
+                <marker date="1584921361122" expanded="true" signature="2367:2419" ph="{...}" />
+                <marker date="1584921361122" expanded="true" signature="2718:2980" ph="///Removes a FieldReactor from EMController's registry. Called automatically by all FieldReactors on their ... " />
+                <marker date="1584921361122" expanded="true" signature="3062:3212" ph="{...}" />
+                <marker date="1584921361122" expanded="true" signature="3222:3503" ph="///  ... " />
+                <marker date="1584921361122" expanded="true" signature="3574:4031" ph="{...}" />
+                <marker date="1584921361122" expanded="true" signature="3709:3761" ph="{...}" />
+                <marker date="1584921361122" expanded="true" signature="4049:4303" ph="///  ... " />
+                <marker date="1584921361122" expanded="true" signature="4379:4521" ph="{...}" />
+                <marker date="1584921361122" expanded="true" signature="4539:4692" ph="///  ... " />
+                <marker date="1584921361122" expanded="true" signature="4755:4954" ph="{...}" />
+                <marker date="1584921361122" expanded="true" signature="4813:4944" ph="{...}" />
+                <marker date="1584921361122" expanded="true" signature="4977:5523" ph="/// Calculate the value of the &lt;paramref name=&quot;field&quot;/&gt; at world-space &lt;paramref name=&quot;position&quot;/&gt;. ... " />
+                <marker date="1584921361122" expanded="true" signature="5644:6246" ph="{...}" />
+                <marker date="1584921361122" expanded="true" signature="5781:6204" ph="{...}" />
+                <marker date="1584921361122" expanded="true" signature="5835:6011" ph="{...}" />
+                <marker date="1584921361122" expanded="true" signature="5915:5993" ph="{...}" />
+                <marker date="1584921361122" expanded="true" signature="6071:6190" ph="{...}" />
+                <marker date="1584921361122" expanded="true" signature="6264:6565" ph="///  ... " />
+                <marker date="1584921361122" expanded="true" signature="6658:7020" ph="{...}" />
+                <marker date="1584921361122" expanded="true" signature="6779:6981" ph="{...}" />
+                <marker date="1584921361122" expanded="true" signature="6884:6967" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/EMP/Core/Objects/Scripts/MonopoleStrengthTimesFieldReactor.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="128">
+              <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="28" selection-end-column="5" />
+              <folding>
+                <marker date="1584921459949" expanded="false" signature="6:94" ph="..." />
+                <marker date="1584921459949" expanded="true" signature="157:773" ph="{...}" />
+                <marker date="1584921459949" expanded="true" signature="300:350" ph="{...}" />
+                <marker date="1584921459949" expanded="true" signature="381:409" ph="{...}" />
+                <marker date="1584921459949" expanded="true" signature="426:554" ph="{...}" />
+                <marker date="1584921459949" expanded="true" signature="463:548" ph="{...}" />
+                <marker date="1584921459949" expanded="true" signature="606:771" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/EMP/Core/Objects/Scripts/MonopoleVelocityCrossFieldReactor.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="224">
+              <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+              <folding>
+                <marker date="1584921530099" expanded="false" signature="6:94" ph="..." />
+                <marker date="1584921530099" expanded="true" signature="157:806" ph="{...}" />
+                <marker date="1584921530099" expanded="true" signature="299:349" ph="{...}" />
+                <marker date="1584921530099" expanded="true" signature="380:408" ph="{...}" />
+                <marker date="1584921530099" expanded="true" signature="425:553" ph="{...}" />
+                <marker date="1584921530099" expanded="true" signature="462:547" ph="{...}" />
+                <marker date="1584921530099" expanded="true" signature="605:804" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/EMP/Core/Objects/Scripts/GlobalConstantFieldGenerator.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="48">
+              <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+              <folding>
+                <marker date="1584921556818" expanded="false" signature="6:94" ph="..." />
+                <marker date="1584921556818" expanded="true" signature="154:301" ph="{...}" />
+                <marker date="1584921556818" expanded="true" signature="260:299" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/EMP/Visualization/EM Colors/VisColorSettings.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2">
+              <caret line="60" selection-start-line="60" selection-end-line="60" />
+              <folding>
+                <marker date="1582043932957" expanded="false" signature="6:108" ph="..." />
+                <marker date="1582043932957" expanded="true" signature="134:3807" ph="{...}" />
+                <marker date="1582043932957" expanded="true" signature="332:3481" ph="{...}" />
+                <marker date="1582043932957" expanded="true" signature="347:423" ph="/// Significance of each color. ... " />
+                <marker date="1582043932957" expanded="true" signature="456:559" ph="{...}" />
+                <marker date="1582043932957" expanded="true" signature="1107:1365" ph="{...}" />
+                <marker date="1582043932957" expanded="true" signature="1175:1329" ph="{...}" />
+                <marker date="1582043932957" expanded="true" signature="1242:1315" ph="{...}" />
+                <marker date="1582043932957" expanded="true" signature="1383:1578" ph="/// Retrieve color associated with ColorMeaning &lt;paramref name=&quot;meaning&quot;/&gt;. ... " />
+                <marker date="1582043932957" expanded="true" signature="1658:2072" ph="{...}" />
+                <marker date="1582043932957" expanded="true" signature="1697:2062" ph="{...}" />
+                <marker date="1582043932957" expanded="true" signature="2167:3475" ph="{...}" />
+                <marker date="1582043932957" expanded="true" signature="2263:3161" ph="{...}" />
+                <marker date="1582043932957" expanded="true" signature="2397:2745" ph="{...}" />
+                <marker date="1582043932957" expanded="true" signature="2467:2672" ph="{...}" />
+                <marker date="1582043932957" expanded="true" signature="2799:3147" ph="{...}" />
+                <marker date="1582043932957" expanded="true" signature="2869:3074" ph="{...}" />
+                <marker date="1582043932957" expanded="true" signature="3252:3423" ph="{...}" />
+                <marker date="1582043932957" expanded="true" signature="3542:3805" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/EMP/Visualization/Flux Shading/FluxShading.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="97">
+              <caret line="21" column="9" lean-forward="true" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+              <folding>
+                <marker date="1582043962008" expanded="false" signature="6:127" ph="..." />
+                <marker date="1582043962008" expanded="true" signature="152:1012" ph="{...}" />
+                <marker date="1582043962008" expanded="true" signature="199:864" ph="{...}" />
+                <marker date="1582043962008" expanded="true" signature="323:368" ph="{...}" />
+                <marker date="1582043962008" expanded="true" signature="401:858" ph="{...}" />
+                <marker date="1582043962008" expanded="true" signature="472:848" ph="{...}" />
+                <marker date="1582043962008" expanded="true" signature="921:1010" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/EMP/Visualization/Field Lines/Scripts/GPUFieldLines.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="128">
+              <caret line="12" column="4" lean-forward="true" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+              <folding>
+                <marker date="1584922290717" expanded="false" signature="6:121" ph="..." />
+                <marker date="1584922290717" expanded="true" signature="146:8697" ph="{...}" />
+                <marker date="1584922290717" expanded="true" signature="202:8695" ph="{...}" />
+                <marker date="1584922290717" expanded="true" signature="283:859" ph="Instancing properties" />
+                <marker date="1584922290717" expanded="true" signature="392:438" ph="{...}" />
+                <marker date="1584922290717" expanded="true" signature="519:560" ph="{...}" />
+                <marker date="1584922290717" expanded="true" signature="632:704" ph="{...}" />
+                <marker date="1584922290717" expanded="true" signature="771:843" ph="{...}" />
+                <marker date="1584922290717" expanded="false" signature="865:1400" ph="Dynamics properties" />
+                <marker date="1584922290717" expanded="true" signature="959:1031" ph="{...}" />
+                <marker date="1584922290717" expanded="true" signature="1117:1205" ph="{...}" />
+                <marker date="1584922290717" expanded="true" signature="1302:1384" ph="{...}" />
+                <marker date="1584922290717" expanded="false" signature="1406:1724" ph="Material properties" />
+                <marker date="1584922290717" expanded="true" signature="1506:1547" ph="{...}" />
+                <marker date="1584922290717" expanded="true" signature="1632:1708" ph="{...}" />
+                <marker date="1584922290717" expanded="false" signature="1730:1880" ph="Misc properties" />
+                <marker date="1584922290717" expanded="true" signature="1820:1864" ph="{...}" />
+                <marker date="1584922290717" expanded="false" signature="1886:1973" ph="Hidden attributes" />
+                <marker date="1584922290717" expanded="false" signature="1979:2241" ph="Private fields" />
+                <marker date="1584922290717" expanded="false" signature="2247:2541" ph="Compute configurations" />
+                <marker date="1584922290717" expanded="true" signature="2547:7308" ph="MonoBehaviour functions" />
+                <marker date="1584922290717" expanded="true" signature="2601:2859" ph="{...}" />
+                <marker date="1584922290717" expanded="true" signature="2877:3882" ph="{...}" />
+                <marker date="1584922290717" expanded="true" signature="3107:3192" ph="{...}" />
+                <marker date="1584922290717" expanded="true" signature="3904:4215" ph="{...}" />
+                <marker date="1584922290717" expanded="true" signature="4234:7292" ph="{...}" />
+                <marker date="1584922290717" expanded="true" signature="4744:4998" ph="{...}" />
+                <marker date="1584922290717" expanded="true" signature="5403:5517" ph="/* _compute.SetFloat(&quot;NoiseFrequency&quot;, _noiseFrequency); ... */" />
+                <marker date="1584922290717" expanded="true" signature="7205:7286" ph="/* Move the noise field. ... */" />
+                <marker date="1584922290717" expanded="true" signature="7363:7984" ph="{...}" />
+                <marker date="1584922290717" expanded="true" signature="7523:7945" ph="{...}" />
+                <marker date="1584922290717" expanded="true" signature="7675:7935" ph="{...}" />
+                <marker date="1584922290717" expanded="true" signature="7840:7921" ph="{...}" />
+                <marker date="1584922290717" expanded="true" signature="8022:8684" ph="{...}" />
+                <marker date="1584922290717" expanded="true" signature="8065:8678" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/EMP/Visualization/Field Lines/Editor/GPUFieldLinesEditor.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="18" column="35" lean-forward="true" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
+              <folding>
+                <marker date="1584922290731" expanded="true" signature="0:110" ph="/* Swarm - Special renderer that draws a swarm of swirling/crawling lines. ... */" />
+                <marker date="1584922290731" expanded="false" signature="118:149" ph="..." />
+                <marker date="1584922290731" expanded="true" signature="174:2514" ph="{...}" />
+                <marker date="1584922290731" expanded="true" signature="330:2512" ph="{...}" />
+                <marker date="1584922290731" expanded="true" signature="722:964" ph="{...}" />
+                <marker date="1584922290731" expanded="true" signature="989:1632" ph="{...}" />
+                <marker date="1584922290731" expanded="true" signature="1679:2506" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/EMP/Visualization/Field Lines/Scripts/EMToGPUInterface.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="160">
+              <caret line="33" column="70" selection-start-line="33" selection-start-column="70" selection-end-line="33" selection-end-column="70" />
+              <folding>
+                <marker date="1584921850661" expanded="false" signature="6:130" ph="..." />
+                <marker date="1584921850661" expanded="true" signature="155:2160" ph="{...}" />
+                <marker date="1584921850661" expanded="true" signature="162:341" ph="/// Sends information about EM objects in the scene to the GPU for visualization purposes. ... " />
+                <marker date="1584921850661" expanded="true" signature="391:2158" ph="{...}" />
+                <marker date="1584921850661" expanded="true" signature="839:1133" ph="{...}" />
+                <marker date="1584921850661" expanded="true" signature="938:1110" ph="{...}" />
+                <marker date="1584921850661" expanded="true" signature="1182:2152" ph="{...}" />
+                <marker date="1584921850661" expanded="true" signature="1596:2114" ph="{...}" />
+                <marker date="1584921850661" expanded="true" signature="1630:1944" ph="{...}" />
+                <marker date="1584921850661" expanded="true" signature="1995:2100" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/EMP/Core/Objects/Prefabs/PointChargePrefab.prefab">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="715">
+              <caret line="163" column="42" lean-forward="true" selection-start-line="163" selection-start-column="42" selection-end-line="163" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>GPUInterface</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/EMP/Visualization/Field Lines/Editor/GPUFieldLinesEditor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/EMP/Core/Objects/Scripts/MonopoleVelocityCrossFieldReactor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/EMP/Core/Objects/Scripts/MonopoleStrengthTimesFieldReactor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/EMP/Core/Objects/Prefabs/PointChargePrefab.prefab" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/EMP/Core/Objects/Scripts/GlobalConstantFieldGenerator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/EMP/Visualization/Field Lines/Scripts/EMToGPUInterface.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/EMP/Visualization/Field Lines/Scripts/GPUFieldLines.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/EMP/Core/Objects/Scripts/InteractionField.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/EMP/Visualization/Flux Shading/FluxShading.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/EMP/Visualization/EM Colors/VisColorSettings.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/EMP/Core/Backend/EMController.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/EMP/Core/Backend/EMController.cs" />
+        <option value="$PROJECT_DIR$/Assets/EMP/Core/Objects/Scripts/PointChargeElectricReactor.cs" />
+        <option value="$PROJECT_DIR$/Assets/EMP/Core/Objects/Scripts/PointChargeMagneticReactor.cs" />
+        <option value="$PROJECT_DIR$/Assets/EMP/Core/Objects/Scripts/MonopoleVelocityCrossFieldReactor.cs" />
+        <option value="$PROJECT_DIR$/Assets/EMP/Core/Objects/Scripts/GlobalConstantFieldGenerator.cs" />
+        <option value="$PROJECT_DIR$/Assets/EMP/Visualization/Field Lines/Scripts/EMToGPUInterface.cs" />
+        <option value="$PROJECT_DIR$/Assets/EMP/Visualization/Field Lines/Scripts/GPUFieldLines.cs" />
+        <option value="$PROJECT_DIR$/Assets/EMP/Visualization/Field Lines/Editor/GPUFieldLinesEditor.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="InvalidFacetManager">
+    <ignored-facets>
+      <facet id="riderModule/invalid/Default Android Facet" />
+    </ignored-facets>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1912" />
+    <option name="y" value="-8" />
+    <option name="width" value="1940" />
+    <option name="height" value="1100" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="UnityExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="UnityExplorer">
+        <option name="show-hidden-items" value="false" />
+      </pane>
+      <pane id="AssemblyExplorer" />
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" pid="27632">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" value="27632" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b8665501-d117-4065-8699-feeffde30c49" name="Default Changelist" comment="" />
+      <created>1584920822596</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584920822596</updated>
+      <workItem from="1584920826777" duration="1598000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1598000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Captures" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Android Profiler" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Performance Profiler" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="NuGet" />
+      <window_info anchor="bottom" id="Logcat" />
+      <window_info anchor="bottom" id="Unit Tests" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Unity" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Device File Explorer" side_tool="true" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Unit Tests Coverage" />
+      <window_info anchor="right" id="Errors In Solution" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/EMP/Visualization/EM Colors/VisColorSettings.cs</url>
+          <line>75</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/EMP/Visualization/EM Colors/VisColorSettings.cs" initialLine="75">
+            <startOffsets>
+              <option value="2436" />
+            </startOffsets>
+            <endOffsets>
+              <option value="2467" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/EMP/Core/Objects/Scripts/InverseDistanceInFrameGenerator.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/EMP/Core/Objects/Scripts/InteractionField.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <marker date="1581997045403" expanded="false" signature="6:78" ph="..." />
+            <marker date="1581997045403" expanded="true" signature="256:388" ph="{...}" />
+            <marker date="1581997045403" expanded="true" signature="268:357" ph="/// Name of this interaction field, e.g. &quot;Electric&quot;. ... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/EMP/Core/Backend/EMController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+          <folding>
+            <marker date="1584921361122" expanded="false" signature="6:78" ph="..." />
+            <marker date="1584921361122" expanded="true" signature="99:7028" ph="{...}" />
+            <marker date="1584921361122" expanded="true" signature="157:7026" ph="{...}" />
+            <marker date="1584921361122" expanded="true" signature="1670:1842" ph="{...}" />
+            <marker date="1584921361122" expanded="true" signature="1735:1832" ph="{...}" />
+            <marker date="1584921361122" expanded="true" signature="1860:2149" ph="/// Register a FieldGenerator with EMController. Called automatically by every FieldGenerator on scene start or ... " />
+            <marker date="1584921361122" expanded="true" signature="2226:2700" ph="{...}" />
+            <marker date="1584921361122" expanded="true" signature="2367:2419" ph="{...}" />
+            <marker date="1584921361122" expanded="true" signature="2718:2980" ph="///Removes a FieldReactor from EMController's registry. Called automatically by all FieldReactors on their ... " />
+            <marker date="1584921361122" expanded="true" signature="3062:3212" ph="{...}" />
+            <marker date="1584921361122" expanded="true" signature="3222:3503" ph="///  ... " />
+            <marker date="1584921361122" expanded="true" signature="3574:4031" ph="{...}" />
+            <marker date="1584921361122" expanded="true" signature="3709:3761" ph="{...}" />
+            <marker date="1584921361122" expanded="true" signature="4049:4303" ph="///  ... " />
+            <marker date="1584921361122" expanded="true" signature="4379:4521" ph="{...}" />
+            <marker date="1584921361122" expanded="true" signature="4539:4692" ph="///  ... " />
+            <marker date="1584921361122" expanded="true" signature="4755:4954" ph="{...}" />
+            <marker date="1584921361122" expanded="true" signature="4813:4944" ph="{...}" />
+            <marker date="1584921361122" expanded="true" signature="4977:5523" ph="/// Calculate the value of the &lt;paramref name=&quot;field&quot;/&gt; at world-space &lt;paramref name=&quot;position&quot;/&gt;. ... " />
+            <marker date="1584921361122" expanded="true" signature="5644:6246" ph="{...}" />
+            <marker date="1584921361122" expanded="true" signature="5781:6204" ph="{...}" />
+            <marker date="1584921361122" expanded="true" signature="5835:6011" ph="{...}" />
+            <marker date="1584921361122" expanded="true" signature="5915:5993" ph="{...}" />
+            <marker date="1584921361122" expanded="true" signature="6071:6190" ph="{...}" />
+            <marker date="1584921361122" expanded="true" signature="6264:6565" ph="///  ... " />
+            <marker date="1584921361122" expanded="true" signature="6658:7020" ph="{...}" />
+            <marker date="1584921361122" expanded="true" signature="6779:6981" ph="{...}" />
+            <marker date="1584921361122" expanded="true" signature="6884:6967" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/EMP/Core/Objects/Prefabs/PointChargePrefab.prefab">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="715">
+          <caret line="163" column="42" lean-forward="true" selection-start-line="163" selection-start-column="42" selection-end-line="163" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/EMP/Core/Objects/Scripts/MonopoleStrengthTimesFieldReactor.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="28" selection-end-column="5" />
+          <folding>
+            <marker date="1584921459949" expanded="false" signature="6:94" ph="..." />
+            <marker date="1584921459949" expanded="true" signature="157:773" ph="{...}" />
+            <marker date="1584921459949" expanded="true" signature="300:350" ph="{...}" />
+            <marker date="1584921459949" expanded="true" signature="381:409" ph="{...}" />
+            <marker date="1584921459949" expanded="true" signature="426:554" ph="{...}" />
+            <marker date="1584921459949" expanded="true" signature="463:548" ph="{...}" />
+            <marker date="1584921459949" expanded="true" signature="606:771" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/EMP/Core/Objects/Scripts/MonopoleVelocityCrossFieldReactor.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+          <folding>
+            <marker date="1584921530099" expanded="false" signature="6:94" ph="..." />
+            <marker date="1584921530099" expanded="true" signature="157:806" ph="{...}" />
+            <marker date="1584921530099" expanded="true" signature="299:349" ph="{...}" />
+            <marker date="1584921530099" expanded="true" signature="380:408" ph="{...}" />
+            <marker date="1584921530099" expanded="true" signature="425:553" ph="{...}" />
+            <marker date="1584921530099" expanded="true" signature="462:547" ph="{...}" />
+            <marker date="1584921530099" expanded="true" signature="605:804" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/EMP/Core/Objects/Scripts/GlobalConstantFieldGenerator.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+          <folding>
+            <marker date="1584921556818" expanded="false" signature="6:94" ph="..." />
+            <marker date="1584921556818" expanded="true" signature="154:301" ph="{...}" />
+            <marker date="1584921556818" expanded="true" signature="260:299" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/EMP/Visualization/Field Lines/Scripts/EMToGPUInterface.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="33" column="70" selection-start-line="33" selection-start-column="70" selection-end-line="33" selection-end-column="70" />
+          <folding>
+            <marker date="1584921850661" expanded="false" signature="6:130" ph="..." />
+            <marker date="1584921850661" expanded="true" signature="155:2160" ph="{...}" />
+            <marker date="1584921850661" expanded="true" signature="162:341" ph="/// Sends information about EM objects in the scene to the GPU for visualization purposes. ... " />
+            <marker date="1584921850661" expanded="true" signature="391:2158" ph="{...}" />
+            <marker date="1584921850661" expanded="true" signature="839:1133" ph="{...}" />
+            <marker date="1584921850661" expanded="true" signature="938:1110" ph="{...}" />
+            <marker date="1584921850661" expanded="true" signature="1182:2152" ph="{...}" />
+            <marker date="1584921850661" expanded="true" signature="1596:2114" ph="{...}" />
+            <marker date="1584921850661" expanded="true" signature="1630:1944" ph="{...}" />
+            <marker date="1584921850661" expanded="true" signature="1995:2100" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/EMP/Visualization/EM Colors/VisColorSettings.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2">
+          <caret line="60" selection-start-line="60" selection-end-line="60" />
+          <folding>
+            <marker date="1582043932957" expanded="false" signature="6:108" ph="..." />
+            <marker date="1582043932957" expanded="true" signature="134:3807" ph="{...}" />
+            <marker date="1582043932957" expanded="true" signature="332:3481" ph="{...}" />
+            <marker date="1582043932957" expanded="true" signature="347:423" ph="/// Significance of each color. ... " />
+            <marker date="1582043932957" expanded="true" signature="456:559" ph="{...}" />
+            <marker date="1582043932957" expanded="true" signature="1107:1365" ph="{...}" />
+            <marker date="1582043932957" expanded="true" signature="1175:1329" ph="{...}" />
+            <marker date="1582043932957" expanded="true" signature="1242:1315" ph="{...}" />
+            <marker date="1582043932957" expanded="true" signature="1383:1578" ph="/// Retrieve color associated with ColorMeaning &lt;paramref name=&quot;meaning&quot;/&gt;. ... " />
+            <marker date="1582043932957" expanded="true" signature="1658:2072" ph="{...}" />
+            <marker date="1582043932957" expanded="true" signature="1697:2062" ph="{...}" />
+            <marker date="1582043932957" expanded="true" signature="2167:3475" ph="{...}" />
+            <marker date="1582043932957" expanded="true" signature="2263:3161" ph="{...}" />
+            <marker date="1582043932957" expanded="true" signature="2397:2745" ph="{...}" />
+            <marker date="1582043932957" expanded="true" signature="2467:2672" ph="{...}" />
+            <marker date="1582043932957" expanded="true" signature="2799:3147" ph="{...}" />
+            <marker date="1582043932957" expanded="true" signature="2869:3074" ph="{...}" />
+            <marker date="1582043932957" expanded="true" signature="3252:3423" ph="{...}" />
+            <marker date="1582043932957" expanded="true" signature="3542:3805" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/EMP/Visualization/Flux Shading/FluxShading.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="97">
+          <caret line="21" column="9" lean-forward="true" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+          <folding>
+            <marker date="1582043962008" expanded="false" signature="6:127" ph="..." />
+            <marker date="1582043962008" expanded="true" signature="152:1012" ph="{...}" />
+            <marker date="1582043962008" expanded="true" signature="199:864" ph="{...}" />
+            <marker date="1582043962008" expanded="true" signature="323:368" ph="{...}" />
+            <marker date="1582043962008" expanded="true" signature="401:858" ph="{...}" />
+            <marker date="1582043962008" expanded="true" signature="472:848" ph="{...}" />
+            <marker date="1582043962008" expanded="true" signature="921:1010" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/EMP/Visualization/Field Lines/Editor/GPUFieldLinesEditor.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="18" column="35" lean-forward="true" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
+          <folding>
+            <marker date="1584922290731" expanded="true" signature="0:110" ph="/* Swarm - Special renderer that draws a swarm of swirling/crawling lines. ... */" />
+            <marker date="1584922290731" expanded="false" signature="118:149" ph="..." />
+            <marker date="1584922290731" expanded="true" signature="174:2514" ph="{...}" />
+            <marker date="1584922290731" expanded="true" signature="330:2512" ph="{...}" />
+            <marker date="1584922290731" expanded="true" signature="722:964" ph="{...}" />
+            <marker date="1584922290731" expanded="true" signature="989:1632" ph="{...}" />
+            <marker date="1584922290731" expanded="true" signature="1679:2506" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/EMP/Visualization/Field Lines/Scripts/GPUFieldLines.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="12" column="4" lean-forward="true" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+          <folding>
+            <marker date="1584922290717" expanded="false" signature="6:121" ph="..." />
+            <marker date="1584922290717" expanded="true" signature="146:8697" ph="{...}" />
+            <marker date="1584922290717" expanded="true" signature="202:8695" ph="{...}" />
+            <marker date="1584922290717" expanded="true" signature="283:859" ph="Instancing properties" />
+            <marker date="1584922290717" expanded="true" signature="392:438" ph="{...}" />
+            <marker date="1584922290717" expanded="true" signature="519:560" ph="{...}" />
+            <marker date="1584922290717" expanded="true" signature="632:704" ph="{...}" />
+            <marker date="1584922290717" expanded="true" signature="771:843" ph="{...}" />
+            <marker date="1584922290717" expanded="false" signature="865:1400" ph="Dynamics properties" />
+            <marker date="1584922290717" expanded="true" signature="959:1031" ph="{...}" />
+            <marker date="1584922290717" expanded="true" signature="1117:1205" ph="{...}" />
+            <marker date="1584922290717" expanded="true" signature="1302:1384" ph="{...}" />
+            <marker date="1584922290717" expanded="false" signature="1406:1724" ph="Material properties" />
+            <marker date="1584922290717" expanded="true" signature="1506:1547" ph="{...}" />
+            <marker date="1584922290717" expanded="true" signature="1632:1708" ph="{...}" />
+            <marker date="1584922290717" expanded="false" signature="1730:1880" ph="Misc properties" />
+            <marker date="1584922290717" expanded="true" signature="1820:1864" ph="{...}" />
+            <marker date="1584922290717" expanded="false" signature="1886:1973" ph="Hidden attributes" />
+            <marker date="1584922290717" expanded="false" signature="1979:2241" ph="Private fields" />
+            <marker date="1584922290717" expanded="false" signature="2247:2541" ph="Compute configurations" />
+            <marker date="1584922290717" expanded="true" signature="2547:7308" ph="MonoBehaviour functions" />
+            <marker date="1584922290717" expanded="true" signature="2601:2859" ph="{...}" />
+            <marker date="1584922290717" expanded="true" signature="2877:3882" ph="{...}" />
+            <marker date="1584922290717" expanded="true" signature="3107:3192" ph="{...}" />
+            <marker date="1584922290717" expanded="true" signature="3904:4215" ph="{...}" />
+            <marker date="1584922290717" expanded="true" signature="4234:7292" ph="{...}" />
+            <marker date="1584922290717" expanded="true" signature="4744:4998" ph="{...}" />
+            <marker date="1584922290717" expanded="true" signature="5403:5517" ph="/* _compute.SetFloat(&quot;NoiseFrequency&quot;, _noiseFrequency); ... */" />
+            <marker date="1584922290717" expanded="true" signature="7205:7286" ph="/* Move the noise field. ... */" />
+            <marker date="1584922290717" expanded="true" signature="7363:7984" ph="{...}" />
+            <marker date="1584922290717" expanded="true" signature="7523:7945" ph="{...}" />
+            <marker date="1584922290717" expanded="true" signature="7675:7935" ph="{...}" />
+            <marker date="1584922290717" expanded="true" signature="7840:7921" ph="{...}" />
+            <marker date="1584922290717" expanded="true" signature="8022:8684" ph="{...}" />
+            <marker date="1584922290717" expanded="true" signature="8065:8678" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
